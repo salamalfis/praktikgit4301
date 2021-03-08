@@ -7,6 +7,4 @@ Update Intro saya alfis
 coba hanif edit 1
 
 
-# Daftar kontributor:
-- Pramuko Aji
-- Muhammad Rusyda Hanifan
+hanif 2
